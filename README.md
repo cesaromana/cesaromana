@@ -11,7 +11,6 @@
   <img src="https://media1.tenor.com/m/UQrxYyUzHqAAAAAC/stunned-scott-pilgrim.gif" alt="Stunned Scott Pilgrim" width="340" />
 </p>
 
-<!-- "Epic" social buttons under the GIF -->
 <p align="center">
   <a href="https://instagram.com/noescsar" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Instagram-@noescsar-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram @noescsar" />
@@ -77,5 +76,9 @@
 <hr/>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/_MdPdHv_R-wAAAAC/oikawa.gif" alt="Oikawa GIF" width="500" />
+  <img src="https://media1.tenor.com/m/m8W0gD9o-lIAAAAC/oikawa-tooru.gif" alt="Oikawa Tooru GIF" width="500" />
+</p>
+
+<p align="center">
+  <b>Thanks for taking the time to check out my profile :P</b>
 </p>
