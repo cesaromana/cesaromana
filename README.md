@@ -10,17 +10,6 @@
   </a>
 </p>
 
-<!-- ===== VISITORS / FOLLOWERS / STARS ===== -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cesaromana&label=Profile%20views&color=FF006E&style=for-the-badge" alt="profile views" />
-  <a href="https://github.com/cesaromana?tab=followers">
-    <img src="https://img.shields.io/github/followers/cesaromana?label=Followers&style=for-the-badge&color=9D4EDD&labelColor=0d0221" alt="followers" />
-  </a>
-  <a href="https://github.com/cesaromana">
-    <img src="https://img.shields.io/github/stars/cesaromana?label=Stars&style=for-the-badge&color=00D9FF&labelColor=0d0221" alt="stars" />
-  </a>
-</p>
-
 <!-- ===== ABOUT ME ===== -->
 <h2 align="center">⚡ About Me</h2>
 
