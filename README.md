@@ -95,17 +95,6 @@
 
 <br/>
 
-<!-- ===== WAKATIME ===== -->
-<h2 align="center">⏱️ WakaTime — Weekly Coding Breakdown</h2>
-
-<p align="center">
-  <a href="https://wakatime.com/@cesaromana">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=cesaromana&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=bc8cff&layout=compact&langs_count=8" alt="wakatime stats" />
-  </a>
-</p>
-
-<br/>
-
 <!-- ===== PROFILE SUMMARY CARDS ===== -->
 <h2 align="center">🃏 Profile Summary</h2>
 
