@@ -19,7 +19,7 @@
   I love automating workflows, raising quality through best practices, and using AI tools<br/>
   to iterate faster — without sacrificing readability or long-term maintainability.
   <br/><br/>
-  <i>"It's going to be legen—wait for it—dary!"</i> 🍻
+  <i>"It's going to be legen—wait for it—dary!"</i>
 </p>
 
 <p align="center">
