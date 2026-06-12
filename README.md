@@ -143,7 +143,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=cesaromana&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=cesaromana&theme=onedark&no-frame=true&column=7&margin-w=15&margin-h=15" alt="trophies" />
   </a>
 </p>
 
