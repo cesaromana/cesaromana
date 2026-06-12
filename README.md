@@ -138,17 +138,6 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:58a6ff,50:bc8cff,100:f778ba&height=3&section=header" alt="divider" />
 </p>
 
-<!-- ===== TROPHIES ===== -->
-<h2 align="center">🏆 Trophies</h2>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=cesaromana&theme=onedark&no-frame=true&column=7&margin-w=15&margin-h=15" alt="trophies" />
-  </a>
-</p>
-
-<br/>
-
 <!-- ===== DEV QUOTE ===== -->
 <h2 align="center">💭 Dev Quote of the Moment</h2>
 
