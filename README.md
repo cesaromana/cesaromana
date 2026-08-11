@@ -1,23 +1,16 @@
 <!-- ===== HEADER ===== -->
 <a href="https://github.com/cesaromana">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1f6feb,60:bc8cff,100:f778ba&height=240&section=header&text=Cesar%20Oma%C3%B1a&fontSize=72&fontAlignY=36&fontColor=ffffff&animation=fadeIn&desc=Software%20Developer%20%E2%80%A2%20Clean%20Code%20Enthusiast%20%E2%80%A2%20AI-powered%20Workflows&descAlignY=58&descSize=16" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1f6feb,60:bc8cff,100:f778ba&height=200&section=header&text=Welcome%20to%20my%20profile&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn" alt="Welcome to my profile" />
 </a>
-
-<!-- ===== TYPING ANIMATION ===== -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=760&lines=Hi+there%2C+I'm+Cesar+%F0%9F%91%8B;Software+Developer+from+%F0%9F%87%BB%F0%9F%87%AA;I+build+practical%2C+maintainable+products;Clean+code+%2B+good+architecture+%3D+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
-  </a>
-</p>
 
 <!-- ===== ABOUT ME ===== -->
 <h2 align="center">⚡ About Me</h2>
 
 <p align="center">
-  <b>Software developer focused on building practical, maintainable products.</b><br/>
-  I care about <b>clean code</b>, <b>good architecture</b>, and <b>reliable delivery</b>.<br/>
-  I love automating workflows, raising quality through best practices, and using AI tools<br/>
-  to iterate faster — without sacrificing readability or long-term maintainability.
+  <b>I build software that's still easy to change six months later.</b><br/>
+  Backends that stay up, code the next person can actually read,<br/>
+  and deploys boring enough to run on a Friday.<br/>
+  Strong opinions about naming things. No defense whatsoever against a good refactor.
   <br/><br/>
   <i>"It's going to be legen—wait for it—dary!"</i>
 </p>
@@ -52,9 +45,6 @@
     <td>🧼</td><td><b>Sharpening</b></td><td>Clean Code, refactoring, and maintainable architecture</td>
   </tr>
   <tr>
-    <td>🤖</td><td><b>AI in my workflow</b></td><td>Faster iteration, brainstorming, automated code reviews</td>
-  </tr>
-  <tr>
     <td>🎮</td><td><b>Side quests</b></td><td>Tinkering with Unity &amp; small game prototypes</td>
   </tr>
   <tr>
@@ -75,6 +65,8 @@
 <p align="center"><b>Frameworks &amp; Runtimes</b></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,dotnet,unity" alt="frameworks" />
+  &nbsp;
+  <img src="https://api.iconify.design/selfhst/odoo.svg?height=44" height="44" alt="Odoo" />
 </p>
 
 <p align="center"><b>Databases &amp; Tools</b></p>
@@ -105,34 +97,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cesaromana&theme=github_dark" alt="repos per language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cesaromana&theme=github_dark" alt="most commit language" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cesaromana&theme=github_dark" alt="stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cesaromana&theme=github_dark&utcOffset=-4" alt="productive time" />
 </p>
 
 <br/>
-
-<!-- ===== SNAKE ANIMATION ===== -->
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/cesaromana/cesaromana/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:58a6ff,50:bc8cff,100:f778ba&height=3&section=header" alt="divider" />
-</p>
-
-<!-- ===== 3D CONTRIBUTION ===== -->
-<h2 align="center">🎲 3D Contribution Graph</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/cesaromana/cesaromana/output/profile-night-rainbow.svg" alt="3D contribution graph" />
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:58a6ff,50:bc8cff,100:f778ba&height=3&section=header" alt="divider" />
@@ -151,15 +120,35 @@
 <h2 align="center">🎧 Now Spinning</h2>
 
 <p align="center">
-  <a href="https://open.spotify.com/search/Morfeo%20Wos" target="_blank" rel="noreferrer">
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1DB954,100:191414&height=140&section=header&text=Morfeo&fontSize=48&fontColor=ffffff&desc=by%20Wos%20%E2%80%94%20%E2%96%B6%20Click%20to%20play%20on%20Spotify&descSize=14&descAlignY=72&fontAlignY=42" alt="Morfeo by Wos" />
-  </a>
+  <img src="https://img.shields.io/badge/Spotify-Now%20Playing-1DB954?style=for-the-badge&logo=spotify&logoColor=1DB954&labelColor=191414&color=191414" alt="Spotify — Now Playing" />
 </p>
 
+<table align="center">
+  <tr>
+    <td align="center" width="180">
+      <a href="https://open.spotify.com/track/44fsHeGMWo6WgucLYeyONa" target="_blank" rel="noreferrer">
+        <img src="https://i.scdn.co/image/ab67616d0000b273516a2daa50b3427563f7bc1c" width="150" height="150" alt="MORFEO — WOS album cover" />
+      </a>
+    </td>
+    <td width="430">
+      <a href="https://open.spotify.com/track/44fsHeGMWo6WgucLYeyONa" target="_blank" rel="noreferrer"><b>MORFEO</b></a><br/>
+      <sub>WOS &nbsp;·&nbsp; MORFEO — Single</sub>
+      <br/><br/>
+      <code>1:24&nbsp; ━━━━━━━━●───────────────── &nbsp;3:53</code>
+      <br/><br/>
+      <sub>⏮&nbsp;&nbsp;&nbsp;&nbsp;⏸&nbsp;&nbsp;&nbsp;&nbsp;⏭&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔀&nbsp;&nbsp;&nbsp;🔁&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔊&nbsp;▁▃▅▇▅▃</sub>
+      <br/><br/>
+      <a href="https://open.spotify.com/track/44fsHeGMWo6WgucLYeyONa" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/Listen%20on%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=191414" alt="Listen on Spotify" />
+      </a>
+      <a href="https://www.youtube.com/watch?v=4gOMr9xK0bI" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/%E2%96%B6%20Play%20video-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=191414" alt="Play the official video on YouTube" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 <p align="center">
-  <a href="https://open.spotify.com/search/Morfeo%20Wos" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/%E2%96%B6%20Play%20on%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=191414" alt="Play on Spotify" />
-  </a>
   <img src="https://img.shields.io/badge/Mood-%F0%9F%8C%99%20Late%20Night%20Code-bc8cff?style=for-the-badge&labelColor=0d1117" alt="Late Night Code" />
   <img src="https://img.shields.io/badge/Loop-%E2%88%9E-f778ba?style=for-the-badge&labelColor=0d1117" alt="Loop infinite" />
 </p>
